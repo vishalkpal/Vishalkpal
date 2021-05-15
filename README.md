@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Games....just kidding...idk actually**
 
-- 📫 How to reach me **dam.vish1992@gmail.com**
+- 📫 How to reach me **vishalkpal01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
