@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **vishalkpal01@gmail.com**
 
+<br> img src="https://github.com/vishalkpal/mydocs/blob/main/ezgif.com-gif-maker.gif/?user=vishalkpal" </br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/15778607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="15778607" height="30" width="40" /></a>
