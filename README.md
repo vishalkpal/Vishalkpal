@@ -29,3 +29,5 @@
 <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalkpal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vishalkpal" /></p>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srashtisj&&theme=radical&&hide_border=false&&show_icons=true"/>
