@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 💬 Ask me about **Games....just kidding...idk actually**
+- 💬 Ask me about **Badminton**
 
 - 📫 How to reach me **vishalkpal01@gmail.com**
 
