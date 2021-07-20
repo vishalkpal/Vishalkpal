@@ -5,7 +5,7 @@
 
 - 🔭 I’m just finished **Garbage management app on Android.**
 
-- 🌱 I’m currently learning **data structures**
+- 🌱 I’m currently learning **database**
 
 - 👯 I’m looking to collaborate on **any project**
 
