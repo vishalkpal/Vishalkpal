@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Badminton**
 
-- 📫 How to reach me **vishalkpal01@gmail.com**
+- 📫 How to reach me **vishalkrpal01@gmail.com**
 
 <br> <img src="https://github.com/vishalkpal/mydocs/blob/main/ezgif.com-gif-maker.gif/?user=vishalkpal"/> </br>
 
