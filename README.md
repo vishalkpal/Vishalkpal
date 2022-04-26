@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkpal&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkpal" /> </p>
 
-- 🔭 I’m just finished **Garbage management app on Android.**
+- 🔭 I’m currently working as **Devops**
 
-- 🌱 I’m currently learning **database**
+- <!--🌱 I’m currently learning ****-->
 
 - 👯 I’m looking to collaborate on **any project**
 
