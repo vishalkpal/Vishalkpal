@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Devops**
 
-- <!--🌱 I’m currently learning ****-->
+<!---🌱 I’m currently learning ****-->
 
 - 👯 I’m looking to collaborate on **any project**
 
